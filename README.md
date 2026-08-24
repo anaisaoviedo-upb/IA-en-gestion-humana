@@ -1,1 +1,3 @@
 # IA-en-gestion-humana
+
+Este repositorio contiene el material práctico del taller “Tendencias de IA Aplicadas a la Gestión Humana – Creación de Modelos de IA”, orientado a explorar cómo las técnicas de Inteligencia Artificial y analítica de datos pueden apoyar la toma de decisiones en Gestión Humana. A través de ejercicios aplicados en KNIME, se abordará la preparación y exploración de datos, la segmentación de empleados mediante técnicas de clustering y la construcción de modelos predictivos para la estimación de salarios, incluyendo su evaluación e interpretación. El material busca que los participantes comprendan, de manera práctica y accesible, el proceso que permite transformar datos de talento humano en información útil para apoyar decisiones organizacionales.
